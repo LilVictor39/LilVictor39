@@ -48,9 +48,7 @@ Atualmente, venho desenvolvendo projetos acadêmicos e práticos voltados para a
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LilVictor39&show_icons=true&theme=transparent&v=1" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilVictor39&layout=compact&theme=transparent&v=1" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LilVictor39&show_icons=true&theme=tokyonight" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LilVictor39&layout=compact&theme=tokyonight" />
 </div>
