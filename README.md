@@ -15,34 +15,17 @@
 
 ## 🚀 Tech Stack
 
-### 💻 Languages
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" />
-</p>
-
-### 🎨 Frontend & Mobile
-<p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-</p>
-
-### 🗄️ Databases
-<p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-
-### 🛠️ Practices
-<p align="left">
   <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-6A0DAD?style=for-the-badge" />
 </p>
@@ -60,3 +43,14 @@ Atualmente, venho desenvolvendo projetos acadêmicos e práticos voltados para a
 ## 📫 Contato
 
 - Email: **victordamata1@gmail.com**
+
+---
+
+## 📊 GitHub Stats
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LilVictor39&show_icons=true&theme=transparent&v=1" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LilVictor39&layout=compact&theme=transparent&v=1" />
+</div>
