@@ -26,8 +26,7 @@
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ETL%20Pipelines-6A0DAD?style=for-the-badge" />
+  
 </p>
 
 ---
