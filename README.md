@@ -92,8 +92,12 @@ Para conversar sobre projetos, tecnologia ou oportunidades, entre em contato:
   <summary><img src="./assets/icons/chart.svg" width="20" height="20" alt="" /> <strong>Estatísticas do GitHub</strong></summary>
 
   <p align="center">
-    <img width="420" src="https://github-readme-stats-sigma-five.vercel.app/api?username=LilVictor39&show_icons=true&theme=tokyonight" alt="Estatísticas públicas de Victor no GitHub" />
-    <img width="320" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LilVictor39&layout=compact&theme=tokyonight" alt="Linguagens mais presentes nos repositórios públicos de Victor" />
+    <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LilVictor39&amp;theme=tokyonight" alt="Estatísticas públicas de Victor no GitHub" />
+    <img width="350" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LilVictor39&amp;theme=tokyonight" alt="Distribuição dos repositórios de Victor por linguagem" />
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/LilVictor39?tab=overview">Ver minha atividade no GitHub</a>
   </p>
 
 </details>
